@@ -1,3 +1,0 @@
-# ==**Calcul intégral**==
-___
- > dd
